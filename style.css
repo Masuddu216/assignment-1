@@ -73,12 +73,15 @@ margin-bottom: 53px;
 
 /* second part */
 #part-2{
-    width: 1440px;
-    height: 652px;
+    margin: 0 auto;
+    width: 1140px;
+    height: 1395px;
     margin: 80px;
-    border: 3px dashed rgb(215, 214, 214);
+    /* border: 20px SOLID rgb(215, 214, 214); */
     margin: 0 auto;
     padding: 80px 97px;
+    
+    
 }
 
 #part-2 .second-heading{
@@ -94,3 +97,22 @@ margin-bottom: 53px;
    text-align:left;
 
 }
+.all-btn{
+    padding: 20px 12px;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 23px;
+    text-align: center;
+    text-decoration: none;
+    letter-spacing: 0%;
+    box-sizing: border-box;
+    border: 1px solid rgb(13, 19, 33);
+    opacity: 0.7;
+        }
+
+        .division-2{
+            padding: 48px;
+            display: flex;
+            justify-content: space-between;
+
+        }
