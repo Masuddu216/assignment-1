@@ -116,3 +116,28 @@ margin-bottom: 53px;
             justify-content: space-between;
 
         }
+
+#video{
+                    width: 1040px;
+    height: 652px;
+    border: 2px solid rgb(215, 214, 214);
+    border-radius: 2px solid red;
+    margin: 0 auto;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 32px;
+    
+                 }
+
+#third-box .box3{
+            display: inline-flex;
+            justify-content: space-around;
+            margin: 10px;
+
+}
+     
+
