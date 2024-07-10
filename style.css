@@ -139,5 +139,31 @@ margin-bottom: 53px;
             margin: 10px;
 
 }
-     
 
+#last-part{
+    box-sizing: border-box;
+    border-radius: 5px;
+    width: 1140px;
+    height: 313px;
+    margin: 0 auto;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    color: white;
+    border: 3px dashed rgb(215, 214, 214);
+    background-image: url(./assets/handshake.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+    margin-bottom: 80px;
+}
+#last-part>.last-content{
+    display: flex-start;
+    flex-direction: column;
+    position: center;
+}
